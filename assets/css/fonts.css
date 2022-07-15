@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'KdamThmorPro-Regular';
+    src: url('fonts/KdamThmorPro-Regular.eot');
+    src: url('fonts/KdamThmorPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/KdamThmorPro-Regular.woff2') format('woff2'),
+        url('fonts/KdamThmorPro-Regular.woff') format('woff'),
+        url('fonts/KdamThmorPro-Regular.ttf') format('truetype'),
+        url('fonts/KdamThmorPro-Regular.svg#KdamThmorPro-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'DancingScript-Regular';
+    src: url('fonts/DancingScript-Regular.eot');
+    src: url('fonts/DancingScript-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/DancingScript-Regular.woff2') format('woff2'),
+        url('fonts/DancingScript-Regular.woff') format('woff'),
+        url('fonts/DancingScript-Regular.ttf') format('truetype'),
+        url('fonts/DancingScript-Regular.svg#DancingScript-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
