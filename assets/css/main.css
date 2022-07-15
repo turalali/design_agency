@@ -1,13 +1,46 @@
 @import url('reset.css');
 @import url('fonts.css');
 
+/*  */
+.center{
+    width: 1170px;
+}
+
+.center_header{
+    width: 1270px;
+}
+
+*{
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+}
+
+/*  */
+.header{
+    padding: 25px 0;
+    background-image: linear-gradient(116deg, #6151f9 1%, #f75f9e 90%);
+}
+
+.logo img{
+    width: 127px;
+}
+
+.header_menu li:not(:last-child){
+    margin-right: 40px;
+}
 
 
-
-
-
-
-
+.header_menu li a{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.56;
+    letter-spacing: normal;
+    text-align: left;
+    color: #fff;
+}
 
 
 
